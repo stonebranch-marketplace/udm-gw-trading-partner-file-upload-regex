@@ -1,5 +1,5 @@
 # udm-gw-trading-partner-file-upload-regex
-UDM Script to automate Trading Partner File Upload using a Regex or Generic Filename Pattern in UDM Gateway.
+UDM Gateway Script to Automate Trading Partner File Upload using a Regex or Generic Filename Pattern
 
 
 # Disclaimer
